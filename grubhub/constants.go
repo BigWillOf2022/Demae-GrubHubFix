@@ -39,7 +39,7 @@ var LanguageCodes = map[Country]string{
 }
 
 var KongAPIURLs = map[Country]string{
-	UnitedStates: "https://api-third-party-gtm.grubhub.com",
+	UnitedStates: "https://prod-mobile-api-1230627597.us-west-2.elb.amazonaws.com",
 }
 
 var GlobalMenuCDNURLs = map[Country]string{
